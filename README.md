@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac 문제해결 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=usb9245)](https://solved.ac/usb9245)
-[![solved.ac 아레나 프로필](https://solvedac.junah.dev/v1/generate_badge?handle=your_handle)](https://solved.ac/profile/your_handle/arena)
+[![solved.ac 아레나 프로필](https://solvedac.junah.dev/v1/generate_badge?handle=usb9245)](https://solved.ac/profile/usb9245/arena)
