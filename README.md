@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-군대감(~ 26/03/31)
+군대감(24/07/01 ~ 26/03/31)
 
 [![Solved.ac 문제해결 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=usb9245)](https://solved.ac/profile/usb9245)
-[![solved.ac 아레나 프로필](https://solvedac.junah.dev/v1/generate_badge?handle=usb9245)](https://solved.ac/profile/usb9245/arena)
 [![solved.ac 문제해결 스트릭](http://mazandi.herokuapp.com/api?handle=usb9245&theme=dark)](https://solved.ac/profile/usb9245)
+[![solved.ac 아레나 프로필](https://solvedac.junah.dev/v1/generate_badge?handle=usb9245)](https://solved.ac/profile/usb9245/arena)
